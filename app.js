@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
     console.log('This is callback for app.get("/")');
     console.log(req.url);
     // res.send({ name: 'mango' });
-    res.send('Hi, this is "/"');
+    res.send('<h1>Hi, this is "/"</h1>');
 
 });
 app.get('/about', (req, res) => {

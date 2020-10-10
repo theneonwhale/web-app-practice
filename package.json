@@ -1,0 +1,23 @@
+{
+  "name": "web-app-practice",
+  "version": "1.0.0",
+  "description": "web-app-practice",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theneonwhale/web-app-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theneonwhale/web-app-practice/issues"
+  },
+  "homepage": "https://github.com/theneonwhale/web-app-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
